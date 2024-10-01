@@ -2,4 +2,4 @@
 - Tenho 20 Anos
 - Sou uma Pixel Artist e recentemente decidi entrar no mundo da programação!
 - Estou aprendendo Python e pretendo postar meus projetos aqui.
-- ficarei feliz se alguem puder me ajudar nessa jornada, deem uma olhada nos meus projetos também!
+- ficarei feliz se alguem puder me ajudar nessa jornada!
